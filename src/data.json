@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Bill",
+    "surname": "Gates",
+    "email": "bill.gates@gmail.com",
+    "age": 50,
+    "city": "Seattle"
+  }, 
+  {
+    "name": "Jack",
+    "surname": "Ma",
+    "email": "jack.ma@gmail.com",
+    "age": 55,
+    "city": "Beijing"
+  }, 
+  {
+    "name": "Sundar",
+    "surname": "Pichai",
+    "email": "sundar.pichai@gmail.com",
+    "age": 45,
+    "city": "San Jose"
+  }, 
+
+  {
+    "name": "Mark",
+    "surname": "Zuckerberg",
+    "email": "mark.zuckerberg@gmail.com",
+    "age": 35,
+    "city": "Silicon Valley"
+  }, 
+  {
+    "name": "Mike-Cannon",
+    "surname": "Brookes",
+    "email": "mike.brookes@gmail.com",
+    "age": 38,
+    "city": "Sydney"
+  }
+]
